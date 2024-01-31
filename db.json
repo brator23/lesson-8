@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "todoName": "Дин ",
+      "todoPhone": "Винчестер",
+      "todoImg": "https://pm1.aminoapps.com/7178/d5a2d1b9801eb786b48b8911466266c89020bf8br1-300-440v2_00.jpg",
+      "id": 1
+    },
+    {
+      "todoName": "Сэм",
+      "todoPhone": "Винчестер",
+      "todoImg": "https://pm1.aminoapps.com/7079/4aaefe5730a95cc746a3fbee5fcd39dbf7933a02r1-300-440v2_00.jpg",
+      "id": 2
+    },
+    {
+      "todoName": "Шивроле Импала",
+      "todoPhone": "1967 года",
+      "todoImg": "https://i.pinimg.com/550x/5c/d2/68/5cd268844aae088523962ab27fab609e.jpg",
+      "id": 3
+    }
+  ]
+}
